@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">bundle</string>
+
+    <string name="text_beload">I am from apkBeLoaded</string>
 </resources>

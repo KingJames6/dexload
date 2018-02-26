@@ -3,8 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/DexLoad.iml" filepath="$PROJECT_DIR$/DexLoad.iml" />
+      <module fileurl="file://F:\DemoSpace\DexLoad\DexLoad.iml" filepath="F:\DemoSpace\DexLoad\DexLoad.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://F:\DemoSpace\DexLoad\app\app.iml" filepath="F:\DemoSpace\DexLoad\app\app.iml" />
       <module fileurl="file://$PROJECT_DIR$/bundle/bundle.iml" filepath="$PROJECT_DIR$/bundle/bundle.iml" />
+      <module fileurl="file://F:\DemoSpace\DexLoad\bundle\bundle.iml" filepath="F:\DemoSpace\DexLoad\bundle\bundle.iml" />
     </modules>
   </component>
 </project>
